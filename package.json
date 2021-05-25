@@ -10,5 +10,6 @@
   "description": "",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
-  }
+  },
+  "repository": "https://github.com/udaysoni21/how-to-npm-tasks"
 }
